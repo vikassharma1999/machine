@@ -52,5 +52,5 @@ else:
 	print("Wrong data")
 
 
-print("accuracy:-")
+print("Accuracy:-")
 print(accuracy)
